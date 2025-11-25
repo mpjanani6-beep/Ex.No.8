@@ -1,5 +1,4 @@
-<img width="404" height="597" alt="image" src="https://github.com/user-attachments/assets/62fb81ca-86d4-4cfe-aaae-1ed6afd235e5" /><img width="404" height="597" alt="image" src="https://github.com/user-attachments/assets/96849060-28e1-41c5-8c8d-2d6d8181e90f" /><img width="292" height="284" alt="image" src="https://github.com/user-attachments/assets/92ad2f9c-f10d-4573-9874-6f26cd74cbc8" />Ex. No. 9 – To Explore and Understand Prompting Techniques for AI Video Generation
-
+Ex. No. 8
 Date :
 Register No. :
 
