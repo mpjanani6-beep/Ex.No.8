@@ -10,7 +10,14 @@ Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
 
 Procedure:
-Analyze the Given Image: ○ Examine the image carefully, noting key elements such as: ■ Objects/Subjects (e.g., people, animals, objects) ■ Colors (e.g., dominant hues, contrasts) ■ Textures (e.g., smooth, rough, glossy) ■ Lighting (e.g., bright, dim, shadows) ■ Background (e.g., outdoor, indoor, simple, detailed) ■ Composition (e.g., focal points, perspective) ■ Style (e.g., realistic, artistic, cartoonish)
+Analyze the Given Image: ○ Examine the image carefully, noting key elements such as:
+■ Objects/Subjects (e.g., people, animals, objects)
+■ Colors (e.g., dominant hues, contrasts)
+■ Textures (e.g., smooth, rough, glossy) 
+■ Lighting (e.g., bright, dim, shadows) ■ Background (e.g., outdoor, indoor, simple, detailed) 
+■ Composition (e.g., focal points, perspective)
+■ Style (e.g., realistic, artistic, cartoonish)
+
 Create the Basic Prompt: ○ Write an initial, simple description of the image. For example, if the image shows a landscape, the prompt could be "A serene landscape with mountains and a river."
 Refine the Prompt with More Detail: ○ Add specific details such as colors, mood, and time of day. For example: "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and a few trees along the shore."
 Identify Style and Artistic Influences: ○ If the image has a particular style (e.g., impressionist painting, realistic photography, minimalistic), include that in the prompt. For example: "A serene landscape in the style of a watercolor painting with soft, blended colors."
