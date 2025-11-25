@@ -124,7 +124,9 @@ Refined Prompt:
 “A fantasy unicorn portrait with a soft pastel mane, gentle expression, flowers surrounding the unicorn, watercolor-style textures.”
 
 Refined Generated Image:
+
 ![Uploading image.png…]()
+
 
 
 COMPARISON & CONCLUSION
