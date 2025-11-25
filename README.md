@@ -1,14 +1,25 @@
-Ex. No. 8
-Date :
-Register No. :
+Exp 8: Reproducing an Image Using Prompts for Image Generation
+
+Date : 25.11.25
+Reg. No: 212223020011
+
+
 
 Aim:
-To explore and understand various prompting techniques used for generating videos through AI video-generation models.
-Aim
+To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
 
-To demonstrate the ability of text-to-image generation models to reproduce an existing image by analysing its elements and crafting precise, descriptive prompts. The goal is to create AI-generated images that closely resemble the originals through iterative prompt refinement.
+Procedure:
+Analyze the Given Image: ○ Examine the image carefully, noting key elements such as: ■ Objects/Subjects (e.g., people, animals, objects) ■ Colors (e.g., dominant hues, contrasts) ■ Textures (e.g., smooth, rough, glossy) ■ Lighting (e.g., bright, dim, shadows) ■ Background (e.g., outdoor, indoor, simple, detailed) ■ Composition (e.g., focal points, perspective) ■ Style (e.g., realistic, artistic, cartoonish)
+Create the Basic Prompt: ○ Write an initial, simple description of the image. For example, if the image shows a landscape, the prompt could be "A serene landscape with mountains and a river."
+Refine the Prompt with More Detail: ○ Add specific details such as colors, mood, and time of day. For example: "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and a few trees along the shore."
+Identify Style and Artistic Influences: ○ If the image has a particular style (e.g., impressionist painting, realistic photography, minimalistic), include that in the prompt. For example: "A serene landscape in the style of a watercolor painting with soft, blended colors."
+Adjust and Fine-tune: ○ Refine the prompt further by adding specific instructions about elements like textures, weather conditions, or any other distinctive features in the image. For example: "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, a few trees along the shore, and soft, pastel tones in the clouds."
+Generate the Image: ○ Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
+Compare the Generated Image with the Original: ○ Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
+Tools/LLMs for Image Generation:
+● DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts. ○ Website: DALL·E ● Stable Diffusion: An open-source model for generating images from text prompts, known for its flexibility and customizable outputs. ○ Website: Stable Diffusion ● MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions. ○ Website: MidJourney
 
-Procedure
+
 1. Analyze the Given Image
 Image 1: Two Colorful Birds on a Flowering Branch
 
@@ -125,9 +136,6 @@ Refined Prompt:
 Refined Generated Image:
 
 <img width="969" height="510" alt="image" src="https://github.com/user-attachments/assets/81bc2486-53a4-4d7e-9536-ca169780946e" />
-
-
-
 
 
 COMPARISON & CONCLUSION
