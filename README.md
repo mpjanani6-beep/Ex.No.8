@@ -4,99 +4,136 @@ Date :
 Register No. :
 
 Aim:
-
 To explore and understand various prompting techniques used for generating videos through AI video-generation models.
+Aim
 
-Algorithm:
+To demonstrate the ability of text-to-image generation models to reproduce an existing image by analysing its elements and crafting precise, descriptive prompts. The goal is to create AI-generated images that closely resemble the originals through iterative prompt refinement.
 
-Study AI models capable of video generation from text prompts.
+Procedure
+1. Analyze the Given Image
+Image 1: Two Colorful Birds on a Flowering Branch
 
-Identify tool capabilities and limitations.
+Objects/Subjects: Two small birds sitting on a branch.
 
-Begin with basic prompts to generate simple videos.
+Colors: Orange, blue, white, brown; pink and peach flowers.
 
-Refine prompts with more details.
+Textures: Soft, feathery texture; smooth petals.
 
-Add motion, timing, and camera movement.
+Lighting: Soft, warm lighting.
 
-Test different video styles.
+Background: Floral background with blurred flowers and branches.
 
-Iterate by modifying prompts.
+Composition: Birds facing each other; centered composition; symmetrical floral framing.
 
-Save and compare outputs for evaluation.
+Style: Highly detailed, semi-realistic, artistic painting.
 
-Procedure:
+Image 2: Unicorn Portrait With Floral Elements
 
-(Already provided in previous steps — unchanged.)
+Objects/Subjects: A unicorn with a long pink-lavender mane and golden horn.
 
-Sample Prompts for Each Stage of Video Generation
+Colors: Pink, lavender, peach, gold, and white.
 
-Below are practical example prompts demonstrating different prompting techniques used during the experiment.
+Textures: Flowing smooth hair, soft fur.
 
-1. Simple Prompts (Basic Level)
+Lighting: Bright, dreamy lighting.
 
-These prompts help understand the default behavior of the video model.
+Background: Soft pastel flowers and butterflies.
 
-Example Simple Prompts
-“A person walking in a park.”
-“Clouds moving slowly in the sky.”
-“A dog running across a field.”
-“Waves hitting the shore.”
-2. Detailed Prompts (Descriptive Level)
+Composition: Side portrait, head turned slightly.
 
-Details include colors, lighting, atmosphere, objects, and environment.
+Style: Fantasy art with bright, magical tones.
 
-Example Detailed Prompts
-“A person in a red jacket walking on a sunny park path with birds flying overhead.”
-“A rainy street with reflections on the ground and people holding umbrellas.”
-“Close-up raindrops sliding over green leaves in soft morning light.”
-“A mountain landscape with deep orange sunset and snow-covered peaks.”
-3. Motion & Camera Prompts (Intermediate Level)
+2. Create the Basic Prompt
+Image 1 Basic Prompt
 
-Focus on movement, transitions, and camera operations.
+“A pair of birds sitting on a branch surrounded by flowers.”
 
-Example Motion Prompts
-“A time-lapse of the sun setting over the ocean with waves speeding up.”
-“Drone footage flying above snowy mountains, camera moving forward.”
-“A slow-motion shot of a basketball bouncing on a court.”
-“Camera zooming out from a forest to reveal a wide landscape.”
-4. Style-Based Prompts (Advanced Level)
+Image 2 Basic Prompt
 
-Specify artistic, cinematic, or animated styles.
+“A portrait of a unicorn with a colorful mane.”
 
-Example Style Prompts
-“A futuristic animated city with neon lights and flying cars.”
-“A cinematic clip of a lion walking in the desert with dramatic lighting.”
-“A watercolor-style animation of a river flowing through a forest.”
-“A clay-animation style clip of a character climbing a mountain.”
-5. Refined & Complex Prompts (Expert Level)
+3. Refine the Prompt With More Detail
+Image 1 Refined Prompt
 
-Combine detail, motion, timing, and style.
+“Two small colorful birds with bright orange chests and blue wings sitting on a thin branch, surrounded by blooming pink and peach flowers, soft lighting, detailed feathers, artistic floral background.”
 
-Example Complex Prompts
-“A cinematic chase scene at night with a car speeding through neon-lit streets, camera following from behind, reflections visible on wet asphalt.”
-“A time-lapse of a city skyline transitioning from day to night, with lights turning on gradually and clouds moving quickly.”
-“A drone shot rising above a waterfall, transitioning smoothly to a wide landscape of green mountains under golden sunset light.”
-“A 3D animated robot walking through a futuristic factory with sparks, glowing lights, and moving mechanical arms.”
-Comparison Table: Prompt vs Video Output
+Image 2 Refined Prompt
 
-Below is a structured comparison table showing how different prompt types affect the video result.
+“A fantasy unicorn with a flowing pink and lavender mane, a golden horn, surrounded by flowers and butterflies, soft dreamy lighting, detailed portrait style.”
 
-Table 1: Effect of Prompt Complexity on Video Quality
-Prompt Type	Example Prompt	Video Output Characteristics	Quality Rating
-Simple Prompt	“A person walking in a park.”	Basic motion, generic park background, limited detail.	★★☆☆☆
-Detailed Prompt	“A person in a red jacket walking on a sunny park path with birds flying overhead.”	More accurate visuals, colors, and environmental elements; better realism.	★★★☆☆
-Motion Prompt	“Camera slowly zooming out from a beach during sunset.”	Smooth camera movement, enhanced cinematic effect.	★★★★☆
-Style Prompt	“An animated futuristic city with neon lights.”	Strong stylization, consistent theme, visually unique.	★★★★☆
-Complex Prompt	“A cinematic car chase in a neon-lit city with reflections on wet streets.”	High-quality motion, detailed scene, improved lighting, transitions, and realism.	★★★★★
-Table 2: Effect of Style Prompts on Output
-Style Type	Example Prompt	Result
-Realistic	“A real-life video of waves hitting rocks at the beach.”	Natural lighting, smooth motion, high realism.
-Animated	“A cartoon-style ocean with stylized waves moving rhythmically.”	Exaggerated geometry, smoother motion, simplified textures.
-Cinematic	“A cinematic shot of a forest with sunlight piercing through trees.”	Dramatic lighting, color grading, slow camera movements.
-Artistic	“A watercolor animation of clouds drifting across the sky.”	Soft edges, pastel colors, fluid transitions.
-Result:
+4. Identify Style and Artistic Influence
+Image 1 Style Instruction
 
-The prompting techniques for AI video generation were successfully studied and applied.
-Different prompt styles demonstrated clear variations in video output quality, motion smoothness, realism, and artistic style.
-The experiment confirms that well-crafted, detailed, and structured prompts produce significantly better video results.
+“Highly detailed watercolor-style nature painting with warm tones.”
+
+Image 2 Style Instruction
+
+“Fantasy illustration with vibrant pastel colors and smooth, magical lighting.”
+
+5. Fine-Tune With Distinct Features
+Image 1 Additional Details
+
+Birds facing each other
+
+Soft blurred background
+
+Realistic feather texture
+
+Warm glow around flowers
+
+Image 2 Additional Details
+
+Flowers braided into the mane
+
+Sparkles and delicate butterflies
+
+Soft shading on the face
+1. BEAUTIFUL BIRDS ON BLOSSOM BRANCH
+ORIGINAL IMAGE
+
+(Insert your birds image here)
+
+Caption:
+Two colorful birds on a flowering branch.
+
+REVIEW : BASIC PROMPT
+Original Image
+
+Two colorful birds on a flowering branch.
+
+First Draft Prompt:
+
+“A fantasy unicorn portrait.”
+<img width="575" height="284" alt="image" src="https://github.com/user-attachments/assets/f860c1ac-b470-47ee-b297-ba1752ae59ed" />
+
+
+
+
+
+
+REFINED IMAGE
+Refined Prompt:
+
+“Two vivid blue and orange birds sitting on a flowering branch, detailed feathers, warm lighting, floral background.”
+
+
+A fantasy unicorn portrait.
+
+Refined Prompt:
+
+“A fantasy unicorn portrait with a soft pastel mane, gentle expression, flowers surrounding the unicorn, watercolor-style textures.”
+
+Refined Generated Image:
+![Uploading image.png…]()
+
+
+COMPARISON & CONCLUSION
+
+The birds’ details were accurately reproduced, and the refined version improved color vibrancy and clarity.
+
+The unicorn portrait was nearly identical to the original, with enhanced pastel colors and smooth watercolor-style textures.
+
+The experiment demonstrated how refined prompts help create more accurate and artistic reproductions of reference images.
+
+Iterative prompt adjustments improve realism, artistic style, and visual quality in AI-generated images.
+
