@@ -1,7 +1,8 @@
-Exp 8: Reproducing an Image Using Prompts for Image Generation
+#Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-Date : 25.11.25
-Reg. No: 212223020011
+#Date : 25.11.25
+
+#Reg. No: 212223020011
 
 
 
